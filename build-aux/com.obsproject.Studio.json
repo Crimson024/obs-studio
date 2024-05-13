@@ -39,10 +39,7 @@
             "no-autodownload": true
         }
     },
-    "cleanup": [
-        "/share/man",
-        "*.la"
-    ],
+    "cleanup": ["/share/man", "*.la"],
     "modules": [
         "modules/10-mbedtls.json",
         "modules/20-aom.json",
